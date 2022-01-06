@@ -1,0 +1,10 @@
+numpy
+nltk
+matplotlib
+pandas
+spacy
+seaborn
+wordcloud
+Pillow
+google_trans_new
+genism
