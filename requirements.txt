@@ -8,3 +8,4 @@ wordcloud
 Pillow
 google_trans_new
 genism
+scikit-learn
